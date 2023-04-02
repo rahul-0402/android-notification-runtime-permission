@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification Runtime Permission</string>
+    <string name="channel_name">General Notifications</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="notification_title">Lorem Ipsum</string>
+    <string name="notification_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut lectus fermentum, bibendum tortor vitae, hendrerit massa. Sed rutrum lorem sapien, ut tempor felis gravida nec. </string>
+</resources>
